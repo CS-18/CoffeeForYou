@@ -87,7 +87,7 @@
 
                 <Button
                     android:layout_width="53dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="53dp"
                     android:onClick="decrement"
                     android:text="-" />
 
@@ -105,7 +105,7 @@
 
                 <Button
                     android:layout_width="53dp"
-                    android:layout_height="wrap_content"
+                    android:layout_height="53dp"
                     android:onClick="increment"
                     android:text="+" />
 
